@@ -1,1 +1,4 @@
-В этой папке будут храниться все необходимые SVG-файлы для сайта.
+https://m0rako.github.io/zakrivayuschiy-teg-f/
+
+
+https://github.com/m0rako/zakrivayuschiy-teg-f
